@@ -1,0 +1,2 @@
+vhdl isim_temp "MultiSequenceDetector.vhd"
+vhdl isim_temp "tb_MultiSequenceDetector.vhd"

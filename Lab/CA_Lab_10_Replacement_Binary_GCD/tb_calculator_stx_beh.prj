@@ -1,0 +1,2 @@
+vhdl isim_temp "calculator.vhd"
+vhdl isim_temp "tb_calculator.vhd"

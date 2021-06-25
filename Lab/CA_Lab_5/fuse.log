@@ -1,0 +1,23 @@
+Running: E:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o E:/ISE Workspace/CA_Lab_5/tb_Array_Ripple_Multiplier_isim_beh.exe -prj E:/ISE Workspace/CA_Lab_5/tb_Array_Ripple_Multiplier_beh.prj work.tb_Array_Ripple_Multiplier 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "E:/ISE Workspace/CA_Lab_5/Full_Adder.vhd" into library work
+Parsing VHDL file "E:/ISE Workspace/CA_Lab_5/Ripple_Adder.vhd" into library work
+Parsing VHDL file "E:/ISE Workspace/CA_Lab_5/Array_Ripple_Multiplier.vhd" into library work
+Parsing VHDL file "E:/ISE Workspace/CA_Lab_5/tb_Array_Ripple_Multiplier.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity Full_Adder [full_adder_default]
+Compiling architecture behavioral of entity Ripple_Adder [ripple_adder_default]
+Compiling architecture behavioral of entity Array_Ripple_Multiplier [array_ripple_multiplier_default]
+Compiling architecture behavior of entity tb_array_ripple_multiplier
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 9 VHDL Units
+Built simulation executable E:/ISE Workspace/CA_Lab_5/tb_Array_Ripple_Multiplier_isim_beh.exe
+Fuse Memory Usage: 30244 KB
+Fuse CPU Usage: 358 ms

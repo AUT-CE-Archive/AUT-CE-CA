@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "E:/ISE Workspace/CA_Lab_7/tb_CAM_isim_beh.exe" -prj "E:/ISE Workspace/CA_Lab_7/tb_CAM_beh.prj" "work.tb_CAM" 

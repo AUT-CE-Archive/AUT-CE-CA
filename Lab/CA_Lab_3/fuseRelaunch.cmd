@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "E:/ISE Workspace/CA_Lab_3/tb_Sequence_1101_Moore_isim_beh.exe" -prj "E:/ISE Workspace/CA_Lab_3/tb_Sequence_1101_Moore_beh.prj" "work.tb_Sequence_1101_Moore" 

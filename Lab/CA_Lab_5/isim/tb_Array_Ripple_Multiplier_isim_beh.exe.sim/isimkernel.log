@@ -1,0 +1,28 @@
+Command line:
+   tb_Array_Ripple_Multiplier_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  57524
+
+Tue May 11 17:23:16 2021
+
+
+ Elaboration Time: 0.0625 sec
+
+ Current Memory Usage: 5154.32 Meg
+
+ Total Signals          : 113
+ Total Nets             : 60
+ Total Signal Drivers   : 50
+ Total Blocks           : 18
+ Total Primitive Blocks : 13
+ Total Processes        : 49
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 420
+
+ Total Simulation Time: 0.0625 sec
+
+ Current Memory Usage: 5154.32 Meg
+
+Tue May 11 17:23:29 2021
+

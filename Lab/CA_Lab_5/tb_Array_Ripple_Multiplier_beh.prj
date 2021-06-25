@@ -1,0 +1,4 @@
+vhdl work "Full_Adder.vhd"
+vhdl work "Ripple_Adder.vhd"
+vhdl work "Array_Ripple_Multiplier.vhd"
+vhdl work "tb_Array_Ripple_Multiplier.vhd"

@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "E:/ISE Workspace/CA_Lab_7/ROM.xst" -ofn "E:/ISE Workspace/CA_Lab_7/ROM.syr" 
+xst -intstyle ise -ifn "E:/ISE Workspace/CA_Lab_7/ROM.xst" -ofn "E:/ISE Workspace/CA_Lab_7/ROM.syr" 
+xst -intstyle ise -ifn "E:/ISE Workspace/CA_Lab_7/ROM.xst" -ofn "E:/ISE Workspace/CA_Lab_7/ROM.syr" 
+xst -intstyle ise -ifn "E:/ISE Workspace/CA_Lab_7/ROM.xst" -ofn "E:/ISE Workspace/CA_Lab_7/ROM.syr" 

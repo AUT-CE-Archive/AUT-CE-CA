@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "E:/ISE Workspace/CA_Lab_4/tb_Carry_Select_Adder_isim_beh.exe" -prj "E:/ISE Workspace/CA_Lab_4/tb_Carry_Select_Adder_beh.prj" "tb_Carry_Select_Adder" 

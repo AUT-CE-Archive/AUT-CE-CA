@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "E:/ISE Workspace/CA_Lab_9/zxc_isim_beh.exe" -prj "E:/ISE Workspace/CA_Lab_9/zxc_beh.prj" "work.zxc" 

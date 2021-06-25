@@ -1,0 +1,27 @@
+Running: E:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o E:/ISE Workspace/CA_Lab_1/tb_full_adder_isim_beh.exe -prj E:/ISE Workspace/CA_Lab_1/tb_full_adder_beh.prj work.tb_full_adder 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "E:/ISE Workspace/CA_Lab_1/xor_gate.vhd" into library work
+Parsing VHDL file "E:/ISE Workspace/CA_Lab_1/and_gate.vhd" into library work
+Parsing VHDL file "E:/ISE Workspace/CA_Lab_1/or_gate.vhd" into library work
+Parsing VHDL file "E:/ISE Workspace/CA_Lab_1/half_adder.vhd" into library work
+Parsing VHDL file "E:/ISE Workspace/CA_Lab_1/full_adder.vhd" into library work
+Parsing VHDL file "E:/ISE Workspace/CA_Lab_1/tb_full_adder.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture gatelevel of entity xor_gate [xor_gate_default]
+Compiling architecture behavioral of entity and_gate [and_gate_default]
+Compiling architecture structure of entity half_adder [half_adder_default]
+Compiling architecture gatelevel of entity or_gate [or_gate_default]
+Compiling architecture structure of entity full_adder [full_adder_default]
+Compiling architecture behavior of entity tb_full_adder
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 13 VHDL Units
+Built simulation executable E:/ISE Workspace/CA_Lab_1/tb_full_adder_isim_beh.exe
+Fuse Memory Usage: 30744 KB
+Fuse CPU Usage: 436 ms

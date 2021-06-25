@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "E:/ISE Workspace/Binary_GCD/tb_calculator_isim_beh.exe" -prj "E:/ISE Workspace/Binary_GCD/tb_calculator_beh.prj" "work.tb_calculator" 

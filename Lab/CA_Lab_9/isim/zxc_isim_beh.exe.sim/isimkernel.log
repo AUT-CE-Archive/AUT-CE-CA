@@ -1,0 +1,30 @@
+Command line:
+   zxc_isim_beh.exe
+     -simmode  gui
+     -simrunnum  1
+     -socket  50074
+
+Tue Jun 15 15:38:33 2021
+
+
+ Elaboration Time: 0.0625 sec
+
+ Current Memory Usage: 5154.37 Meg
+
+ Total Signals          : 17
+ Total Nets             : 89
+ Total Signal Drivers   : 11
+ Total Blocks           : 4
+ Total Primitive Blocks : 3
+ Total Processes        : 7
+ Total Traceable Variables  : 14
+ Total Scalar Nets and Variables : 573
+In process CPU.vhd:54 
+ 
+
+ Total Simulation Time: 0.125 sec
+
+ Current Memory Usage: 4682.51 Meg
+
+Tue Jun 15 15:41:39 2021
+

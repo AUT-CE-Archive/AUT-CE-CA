@@ -1,0 +1,3 @@
+vhdl work "Comparator_Mini.vhd"
+vhdl work "Comparator.vhd"
+vhdl work "tb_Comparator.vhd"
