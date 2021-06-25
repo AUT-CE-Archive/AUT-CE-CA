@@ -1,0 +1,4 @@
+vhdl work "shift_register.vhd"
+vhdl work "seven_seg.vhd"
+vhdl work "delay.vhd"
+vhdl work "main.vhd"

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "F:/Me'mariLab/AZ6/tb_main_isim_beh.exe" -prj "F:/Me'mariLab/AZ6/tb_main_beh.prj" "work.tb_main" 

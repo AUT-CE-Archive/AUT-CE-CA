@@ -1,0 +1,5 @@
+vhdl isim_temp "shift_register.vhd"
+vhdl isim_temp "seven_seg.vhd"
+vhdl isim_temp "delay.vhd"
+vhdl isim_temp "main.vhd"
+vhdl isim_temp "tb_main.vhd"
